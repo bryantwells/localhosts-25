@@ -1,0 +1,156 @@
+current_date: 2025-12-11
+
+calendar:
+
+  # W1
+  - date: 2025-08-27  
+    agenda:
+      - <a href="/pages/syllabus">Syllabus Review</a>
+      - <a href="/slideshows/intro" target="_blank">Class Intro</a>
+      - General Introductions
+
+  # W2
+  - date: 2025-09-03
+    agenda:
+      - <a href="/posts/server-setup">Server Setup</a>
+    assignments:
+      - <a href="/posts/domain">Buy a domain</a>
+      - <a href="/posts/favicon">Make a favicon</a>
+      - Read <a href="https://rhizome.org/editorial/2016/nov/10/my-boyfriend-came-back-from-the-war/"><i>Speaking in Net Language</i></a> and respond on <a href="https://discord.gg/WFqveu2P">Discord</a>
+
+  # W3
+  - date: 2025-09-10
+    agenda:
+      - <a href="/projects/time-online">P1 Introduction</a>
+      - <a href="/slideshows/html">HTML Introduction</a>
+      - <a href="/posts/local-setup">Local Dev Workshop</a>
+      - <a href="/posts/sftp-setup">SFTP Workshop</a>
+    assignments:
+      - <a href="/projects/time-online">Complete P1</a>
+      - Read <a href="https://attachments.are.na/30585073/5ce2711be886f4453b19c345de50ca90.pdf?1725970719"><i>Tlon, Uqbar, Orbis Tertius</i></a> and respond on <a href="https://discord.gg/WFqveu2P">Discord</a>
+
+  # W4
+  - date: 2025-09-17
+    agenda:
+      - <a href="/projects/time-online">P1 Review</a> #1hr
+      - <a href="/projects/field-notes">P2 Introduction</a> #30min
+      - <a href="https://www.damonzucconi.com/">Damon Zucconi Presentation</a> #1hr
+      - <a href="/slideshows/logging">Logging Presentation</a>
+    assignments:
+      - Read <a href="https://www.servinglibrary.org/journal/17/block-by-block"><i>BLOCK BY BLOCK</i></a> and <a href="/files/baited-area.pdf"><i>Baited Area</i></a>, and respond on <a href="https://discord.gg/WFqveu2P">Discord</a>
+
+  # W5
+  - date: 2025-09-24
+    agenda:
+      - <a href="/files/style-boilerplate.zip">Style Workshop</a>
+    assignments:
+      - <a href="/projects/field-notes">Complete P2</a>
+  
+  # W6
+  - date: 2025-10-01
+    agenda:
+      - <a href="/projects/field-notes">P2 Review</a>
+      - <a href="/projects/log">P3 Introduction</a>
+      - <a href="/files/animation-complete.zip">Animation Workshop</a>
+  
+  # W7
+  - date: 2025-10-08
+    agenda:
+      - <a href="https://docs.google.com/spreadsheets/d/1f8CCWbYg_i-WtqUtu_PGVwnv_giL6ajk4meNoEbIml4/edit?gid=0#gid=0">P3 Concept Checkins</a>
+
+  # – BREAK –
+  - date: 2025-10-15
+    agenda:
+      - Fall Break
+
+  # W9
+  - date: 2025-10-22
+    agenda:
+      - JS Intro Workshop (<a href="/files/js-boilerplate.zip">Boilerplate</a>, <a href="/files/js-complete.zip">Completed</a>)
+      - P3 Group Checkin
+
+  # W10
+  - date: 2025-10-29
+    agenda:
+      - <a href="https://kameelahr.com/">Kameelah Janan Rasheed Presentation</a>
+      - JS Events Workshop (<a href="/files/dom-boilerplate.zip">Boilerplate</a>, <a href="/files/dom-complete.zip">Complete</a>)
+
+  # W11
+  - date: 2025-11-05
+    agenda:
+      - P3 Design Milestone
+
+  
+
+  # W12
+  - date: 2025-11-12
+    agenda:
+      - PHP Intro Workshop (<a href="/files/kirby-costumes-boilerplate.zip">Boilerplate</a>, <a href="/files/kirby-costumes-complete.zip">Complete</a>)
+      - Work Session
+
+  # W13
+  - date: 2025-11-19
+    agenda:
+      - Work Session and 1:1s
+
+  # – BREAK –
+  - date: 2025-11-26
+    agenda:
+      - Winter Break
+
+  # W15
+  - date: 2025-12-03
+    agenda:
+      - P3 Final Review
+    assignments:
+      - <a href="https://yale.box.com/s/zae9cv9uwclihvzl46fcdzeq5i6b16ug">Upload your thumbnail, website files, and documentation</a> to the class archive
+      - (Optional) <a href="/posts/hosting">Purchase hosting</a> for your personal archive
+
+  # ====================================
+    
+  # W16
+  - date: 2025-12-10
+    agenda:
+      - P3 Documentation Due
+
+students:
+
+  - name: Camille Gwise
+    netid: cjg89
+    domain: http://thought-garden.xyz
+    ip: 10.74.227.101
+
+  - name: Cierra Peters
+    netid: cmp246
+    domain: http://magnitude.bond
+    ip: 10.74.172.119
+
+  - name: David Jung
+    netid: wj263
+    domain: http://querencia.bond
+    ip: 10.74.17.108
+
+  - name: Dydanni Dai
+    netid: jd2842
+    domain: http://dydannidai.xyz
+    ip: 10.74.41.35
+
+  - name: Ellen Fabini
+    netid: eff7
+    domain: anappleaday.xyz
+    ip: 10.74.33.172
+
+  - name: Gabriella Baiz
+    netid: gnb7
+    domain: http://superbicha.studio
+    ip: 10.74.163.3
+
+  - name: Priscilla Young
+    netid: py92
+    domain: http://younghotwater.buzz
+    ip: 10.74.75.47
+
+  - name: Wendy Li
+    netid: yl2599
+    domain: http://somewhereinthisuniverse.com
+    ip: 10.74.24.230

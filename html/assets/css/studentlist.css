@@ -1,0 +1,38 @@
+/********************************************************
+Student List
+********************************************************/
+
+.StudentList {
+	position: fixed;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: 1rem;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding: 1rlh;
+}
+
+.StudentList img {
+	display: inline-block;
+	width: 2rem;
+	aspect-ratio: 1/1;
+}
+
+.StudentList a:hover + iframe {
+	display: block;
+}
+
+.StudentList iframe {
+	background-color: white;
+	display: none;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 50%;
+	aspect-ratio: 3/2;
+	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+	border-radius: 5px;
+}

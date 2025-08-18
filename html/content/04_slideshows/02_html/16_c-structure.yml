@@ -1,0 +1,2 @@
+caption: ... a head and body.
+notes: In the outermost edge of the document, you'll find the &lt;head> element (which contains the page's metadata) and the &lt;body> element (which contains the page's content).

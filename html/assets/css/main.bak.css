@@ -1,0 +1,114 @@
+/********************************************************
+Page
+********************************************************/
+
+.Page {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	gap: 1rem;
+	padding: 1rem;
+}
+
+.Page--home {
+	background-color: yellow;
+	color: orange;
+}
+
+@media (max-width: 1200px) {
+	.Page {
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+}
+
+@media (max-width: 800px) {
+	.Page {
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+/********************************************************
+Header
+********************************************************/
+
+.Header {
+	word-break: break-all;
+	color: black;
+	min-height: 15rlh;
+}
+
+.Header--home {
+	grid-column: span 2;
+}
+
+.Header:not(.Header--home) .Header-title {
+	position: sticky;
+	top: 1rem;
+}
+
+@media (max-width: 800px) {
+	.Header:not(.Header--home) .Header-title {
+		position: static;
+	}
+}
+
+/********************************************************
+Main
+********************************************************/
+
+.Main {
+	display: contents;
+}
+
+/********************************************************
+Post
+********************************************************/
+
+.Post {
+	grid-column: span 2;
+}
+
+/********************************************************
+Calendar
+********************************************************/
+
+.Calendar {
+	display: contents;
+}
+
+/********************************************************
+Date
+********************************************************/
+
+.Date {
+	min-height: 15rlh;
+}
+
+.Date ul {
+	margin-bottom: 0.5rlh;
+}
+
+.Date.is-past,
+.Date.is-past:not(.is-break) {
+	color: black;
+}
+
+.Date li {
+	text-indent: -1ch;
+	padding-left: 2ch;
+}
+
+.Date-milestone::before {
+	content: '✦';
+	display: inline-block;
+	width: 1ch;
+}
+.Date-note::before {
+	content: '●';
+	display: inline-block;
+	width: 1ch;
+}
+.Date-assignment::before {
+	content: '◥';
+	display: inline-block;
+	width: 1ch;
+}

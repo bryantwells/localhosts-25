@@ -1,0 +1,4 @@
+notes: 
+  - unlike HTTP, Xanadu accounted for link rot by making link bidirectional
+  - was more complex and interconnected
+  - this is an early prototype showing multiple versions of the same document, side by side

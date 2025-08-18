@@ -1,0 +1,69 @@
+/********************************************************
+Body Text
+********************************************************/
+
+.BodyText h2,
+.BodyText h3 {
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}
+
+.BodyText p,
+.BodyText ul {
+    margin-bottom: 1rem;
+}
+
+.BodyText > *:first-child {
+    margin-top: 0;
+}
+
+.BodyText blockquote {
+	font-family: sans-serif;
+}
+
+.BodyText pre {
+	background-color: whitesmoke;
+	color: gray;
+	padding: 1rem;
+	border-radius: 0.5rem;
+	overflow-x: scroll;
+}
+
+.BodyText code {
+	background-color: whitesmoke;
+	color: gray;
+	border-radius: 0.25rem;
+}
+
+.BodyText p > code {
+	padding: 0.2rem 0.5rem;
+}
+
+.BodyText img {
+	max-width: 100%;
+	margin: auto;
+}
+
+.BodyText table {
+	width: 100%;
+	font-family: monospace;
+	table-layout: fixed;
+	background-color: gainsboro;
+	padding: 0.5rem;
+	border-radius: 0.5rem;
+}
+
+.BodyText th {
+	border-bottom: 1px solid black;
+	text-align: left;
+}
+
+.BodyText th,
+.BodyText td {
+	padding: 0.25em 0;
+	vertical-align: top;
+}
+
+.BodyText ul li::before {
+	content: '● '
+}

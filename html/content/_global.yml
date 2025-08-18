@@ -1,0 +1,31 @@
+title: Localhosts
+
+# —————————————————
+# do not edit below
+# —————————————————
+
+structure: 
+  01_home:
+    template: 'posts/index.php'
+    schema:
+      contents: ['txt', 'md']
+  02_posts:
+    children:
+      template: 'posts/_entry.php'
+      schema:
+        contents: ['txt', 'md']
+  03_projects:
+    children:
+      template: 'projects/_entry.php'
+      schema:
+        contents: ['txt', 'md']
+  04_slideshows:
+    children:
+      template: 'slideshows/_entry.php'
+      schema:
+        contents: ['txt', 'md', 'png', 'jpg', 'jpeg', 'gif', 'mp4', 'webp', 'url', 'pdf']
+  05_pages:
+    children:
+      template: 'pages/_entry.php'
+      schema:
+        contents: ['txt', 'md']

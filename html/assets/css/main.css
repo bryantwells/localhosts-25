@@ -1,0 +1,73 @@
+
+/********************************************************
+Header
+********************************************************/
+
+.Header {
+	padding: 1rlh;
+	max-width: 900px;
+	margin: auto;
+	margin-bottom: 6rlh;
+}
+
+.Header--post {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+/********************************************************
+Page
+********************************************************/
+
+.Page {
+	padding: 1rlh;
+	max-width: 900px;
+	margin: auto;
+	margin-bottom: 4rlh;
+	min-height: calc(100vh - 18rlh);
+}
+
+/********************************************************
+Footer
+********************************************************/
+
+.Footer {
+	padding: 1rlh;
+	background-color: black;
+	color: gainsboro;
+}
+
+.Footer-item {
+	display: inline-block;
+}
+
+/********************************************************
+Calendar
+********************************************************/
+
+.Calendar {
+	display: grid;
+	gap: 1rlh;
+}
+
+.Date {
+	display: grid;
+	grid-template-columns: 1fr 2fr 2fr;
+	gap: 2rlh;
+	background-color: gainsboro;
+	color: white;
+	padding: 1rlh;
+}
+
+.Date.is-past {
+	color: grey;
+}
+
+.Date.is-current {
+	color: black;
+	background-color: yellow;
+}
+
+.Date-sectionHeader {
+	margin-bottom: 0.5rlh;
+}

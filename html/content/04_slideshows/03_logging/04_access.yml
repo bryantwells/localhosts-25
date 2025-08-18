@@ -1,0 +1,5 @@
+caption: Apache Access Log, /var/log/apache2/access.log
+notes: 
+  - now, most computers do their own event logging in the background during it's regular process
+  - for example, your servers have a log file which is updated daily and can be accessed via /var/log
+  - the apache logs record requests for your website, including the IP address, timestamp, and client/browser used in each request
