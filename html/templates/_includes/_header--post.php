@@ -3,7 +3,7 @@
 		<a href="/">
 			AR750A, Localhosts
 			<br>Yale School of Art MFA
-			<br>Fall 2024
+			<br>Fall 2025
 		</a>
     </div>
 	<div class="Header-subtitle">

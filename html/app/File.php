@@ -1,6 +1,12 @@
 <?php
 
 use Symfony\Component\Yaml\Yaml;
+use League\CommonMark\CommonMarkConverter;
+
+$converter = new CommonMarkConverter([
+        'html_input' => 'strip',
+        'allow_unsafe_links' => false,
+    ]);
 
 class File {
 
@@ -15,7 +21,13 @@ class File {
     public $meta;
     public $url;
 
+    private $converter;
+
     function __construct($filePath) {
+        $this->converter = new CommonMarkConverter([
+            'html_input' => 'strip',
+            'allow_unsafe_links' => false,
+        ]);
         $this->init($filePath);
     }
 
@@ -32,7 +44,7 @@ class File {
 
             // markdown
             $contents = file_get_contents($filePath);
-            $html = ParsedownExtra::instance()->setBreaksEnabled(true)->text($contents);
+            $html = $this->converter->convert($contents)->getContent();
             $this->parsed = $html;
             $this->raw = $contents;
 

@@ -1,6 +1,5 @@
 <?php 
 	$entry = $SITE->entries['01_home'];
-	$students = $entry->meta->students;
 	$calendar = $entry->meta->calendar;
 	$currentDate = new DateTime("@{$entry->meta->current_date}");
 ?>

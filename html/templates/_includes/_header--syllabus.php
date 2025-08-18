@@ -4,7 +4,7 @@
 			<h1>
 				AR750A, Localhosts
 				<br>Yale School of Art MFA
-				<br>Fall 2024
+				<br>Fall 2025
 			</h1>
 		</a>
 		<br>

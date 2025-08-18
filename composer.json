@@ -1,0 +1,16 @@
+{
+    "name": "bryant/localhosts",
+    "type": "project",
+    "require": {
+        "symfony/yaml": "^7.3",
+        "erusev/parsedown": "^1.7",
+        "erusev/parsedown-extra": "^0.8.1",
+        "league/commonmark": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "beedotnet",
+            "email": "bryantwells@me.com"
+        }
+    ]
+}
