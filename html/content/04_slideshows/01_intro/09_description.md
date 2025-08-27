@@ -1,3 +1,0 @@
-Through a series of workshops and projects, students in Localhosts will create a web server using a single-board computer and create browser-based works using HTML, CSS, JS and PHP. Students are expected to develop a research and content strategy related to a topic of their choosing, culminating in unique and situated web-based works. 
-
-You will be asked to consider the following: Where can a website go? What is a website made of, and how can it relate to its setting (the computer it lives on, the surface that renders it, its author, its viewer)?

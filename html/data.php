@@ -1,7 +1,7 @@
 <?php
 
 	// YAML and .md parsing
-	include 'app/lib/includes.php';
+    require __DIR__ . '/../vendor/autoload.php';
 	
 	// main app
 	include 'app/Router.php';

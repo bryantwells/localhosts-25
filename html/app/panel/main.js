@@ -64,6 +64,26 @@ class ContentItem extends StructureItem {
 		super();
 		this.type = 'content';
 	}
+
+    init(path) {
+        this.thumbnail = document.createElement('figure');
+        this.appendChild(this.thumbnail);
+        super.init(path);
+        this.setThumbnail(path);
+	}
+
+    setThumbnail(path) {
+        const extension = path.split('.').slice(-1)[0].toLowerCase();
+        switch (extension) {
+            case 'jpeg':
+            case 'jpg':
+            case 'png':
+            case 'gif':
+            case 'webp':
+                this.thumbnail.innerHTML = `<img src="/content/${ path }">`;
+                break;
+        }
+    }
 }
 
 class StructureList extends HTMLElement {

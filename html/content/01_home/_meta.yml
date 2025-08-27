@@ -5,9 +5,13 @@ calendar:
   # W1
   - date: 2025-08-27  
     agenda:
-      - <a href="/pages/syllabus">Syllabus Review</a>
-      - <a href="/slideshows/intro" target="_blank">Class Intro</a>
       - General Introductions
+      - <a href="/slideshows/intro" target="_blank">Class Intro</a>
+      - <a href="/pages/syllabus">Syllabus Review</a>
+    assignments:
+      - <a href="https://code.visualstudio.com/">Download VS Code</a>
+      - <a href="https://www.raspberrypi.com/software/">Download Raspberry Pi Imager</a>
+      - <a href="https://www--arc.com/">Read Web Design as Architecture</a>
 
 #   # W2
 #   - date: 2025-09-03
