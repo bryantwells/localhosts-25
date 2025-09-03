@@ -1,4 +1,4 @@
-current_date: 2025-08-27
+current_date: 2025-09-03
 
 calendar:
 
@@ -11,17 +11,22 @@ calendar:
     assignments:
       - <a href="https://code.visualstudio.com/">Download VS Code</a>
       - <a href="https://www.raspberrypi.com/software/">Download Raspberry Pi Imager</a>
-      - <a href="https://www--arc.com/">Read Web Design as Architecture</a>
+      - Read <a href="https://www--arc.com/"><i>Web Design as Architecture</i></a>
+      - <a href="https://docs.google.com/forms/d/10M2dtKiXQ0238a1uKcu-qaoLiXXD9Bj-58fWqXvrO-8/edit">Semester Start Survey</a>
 
-#   # W2
-#   - date: 2025-09-03
-#     agenda:
-#       - <a href="/posts/server-setup">Server Setup</a>
-#     assignments:
-#       - <a href="/posts/domain">Buy a domain</a>
-#       - <a href="/posts/favicon">Make a favicon</a>
-#       - Read <a href="https://rhizome.org/editorial/2016/nov/10/my-boyfriend-came-back-from-the-war/"><i>Speaking in Net Language</i></a> and respond on <a href="https://discord.gg/WFqveu2P">Discord</a>
-
+  # W2
+  - date: 2025-09-03
+    agenda:
+      - Housekeeping
+      - Workstation setup
+      - <a href="/slideshows/html">HTML Introduction</a>
+      - Web Ring Workshop
+      - <a href="/posts/server-setup">Server Setup</a>
+      - <a href="/posts/sftp-setup">SFTP Setup</a>
+    assignments:
+      - <a href="/projects/time-online">Complete P1</a>
+      - Read <a href="https://rhizome.org/editorial/2016/nov/10/my-boyfriend-came-back-from-the-war/"><i>Speaking in Net Language</i></a>
+      
 #   # W3
 #   - date: 2025-09-10
 #     agenda:
@@ -32,6 +37,8 @@ calendar:
 #     assignments:
 #       - <a href="/projects/time-online">Complete P1</a>
 #       - Read <a href="https://attachments.are.na/30585073/5ce2711be886f4453b19c345de50ca90.pdf?1725970719"><i>Tlon, Uqbar, Orbis Tertius</i></a> and respond on <a href="https://discord.gg/WFqveu2P">Discord</a>
+#       - <a href="/posts/domain">Buy a domain</a>
+#       - <a href="/posts/favicon">Make a favicon</a>
 
 #   # W4
 #   - date: 2025-09-17

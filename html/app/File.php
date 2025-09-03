@@ -25,7 +25,7 @@ class File {
 
     function __construct($filePath) {
         $this->converter = new CommonMarkConverter([
-            'html_input' => 'strip',
+            'html_input' => 'allow',
             'allow_unsafe_links' => false,
         ]);
         $this->init($filePath);
