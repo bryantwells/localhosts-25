@@ -18,11 +18,11 @@ calendar:
   - date: 2025-09-03
     agenda:
       - Housekeeping
+      - <a href="/posts/server-setup">Server Setup</a>
+      - <a href="/posts/sftp-setup">SFTP Setup</a>
       - Workstation setup
       - <a href="/slideshows/html">HTML Introduction</a>
       - Web Ring Workshop
-      - <a href="/posts/server-setup">Server Setup</a>
-      - <a href="/posts/sftp-setup">SFTP Setup</a>
     assignments:
       - <a href="/projects/time-online">Complete P1</a>
       - Read <a href="https://rhizome.org/editorial/2016/nov/10/my-boyfriend-came-back-from-the-war/"><i>Speaking in Net Language</i></a>
