@@ -1,4 +1,4 @@
-current_date: 2025-09-03
+current_date: 2025-09-10
 
 calendar:
 
@@ -27,18 +27,17 @@ calendar:
       - <a href="/projects/time-online">Complete P1</a>
       - Read <a href="https://rhizome.org/editorial/2016/nov/10/my-boyfriend-came-back-from-the-war/"><i>Speaking in Net Language</i></a>
       
-#   # W3
-#   - date: 2025-09-10
-#     agenda:
-#       - <a href="/projects/time-online">P1 Introduction</a>
-#       - <a href="/slideshows/html">HTML Introduction</a>
-#       - <a href="/posts/local-setup">Local Dev Workshop</a>
-#       - <a href="/posts/sftp-setup">SFTP Workshop</a>
-#     assignments:
-#       - <a href="/projects/time-online">Complete P1</a>
-#       - Read <a href="https://attachments.are.na/30585073/5ce2711be886f4453b19c345de50ca90.pdf?1725970719"><i>Tlon, Uqbar, Orbis Tertius</i></a> and respond on <a href="https://discord.gg/WFqveu2P">Discord</a>
-#       - <a href="/posts/domain">Buy a domain</a>
-#       - <a href="/posts/favicon">Make a favicon</a>
+  # W3
+  - date: 2025-09-10
+    agenda:
+      - Housekeeping
+      - <a href="/projects/time-online">P1 Review</a>
+      - <a href="/files/style-boilerplate.zip">Style Workshop</a>
+      - <a href="/slideshows/logging">Logging Presentation</a>
+      - <a href="/projects/field-notes">P2 Introduction</a>
+    assignments:
+      - Read <a href="https://www.servinglibrary.org/journal/17/block-by-block"><i>BLOCK BY BLOCK</i></a>
+      - <a href="/projects/field-notes">Complete P2 Concept</a>
 
 #   # W4
 #   - date: 2025-09-17
