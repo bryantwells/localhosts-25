@@ -42,7 +42,7 @@ calendar:
   # W4
   - date: 2025-09-17
     agenda:
-      - <a href="/projects/time-online">P2 Concept Checkins</a> #2hr
+      - <a href="/projects/field-notes">P2 Concept Checkins</a> #2hr
       - Server Debugging
       - Review P2 Boilerplate
       - Shared Stylesheets Workshop or Animation Workshop
