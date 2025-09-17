@@ -1,4 +1,4 @@
-current_date: 2025-09-10
+current_date: 2025-09-17
 
 calendar:
 
@@ -44,7 +44,8 @@ calendar:
     agenda:
       - <a href="/projects/time-online">P2 Concept Checkins</a> #2hr
       - Server Debugging
-      - Animation Workshop
+      - Review P2 Boilerplate
+      - Shared Stylesheets Workshop or Animation Workshop
     assignments:
       - <a href="/projects/field-notes">P2 Design and Prototype</a>
 
