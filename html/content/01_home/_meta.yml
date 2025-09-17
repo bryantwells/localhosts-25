@@ -39,15 +39,14 @@ calendar:
       - Read <a href="https://www.servinglibrary.org/journal/17/block-by-block"><i>BLOCK BY BLOCK</i></a>
       - <a href="/projects/field-notes">P2 Concept</a>
 
-#   # W4
-#   - date: 2025-09-17
-#     agenda:
-#       - <a href="/projects/time-online">P1 Review</a> #1hr
-#       - <a href="/projects/field-notes">P2 Introduction</a> #30min
-#       - <a href="https://www.damonzucconi.com/">Damon Zucconi Presentation</a> #1hr
-#       - <a href="/slideshows/logging">Logging Presentation</a>
-#     assignments:
-#       - Read <a href="https://www.servinglibrary.org/journal/17/block-by-block"><i>BLOCK BY BLOCK</i></a> and <a href="/files/baited-area.pdf"><i>Baited Area</i></a>, and respond on <a href="https://discord.gg/WFqveu2P">Discord</a>
+  # W4
+  - date: 2025-09-17
+    agenda:
+      - <a href="/projects/time-online">P2 Concept Checkins</a> #2hr
+      - Server Debugging
+      - Animation Workshop
+    assignments:
+      - <a href="/projects/field-notes">P2 Design and Prototype</a>
 
 #   # W5
 #   - date: 2025-09-24
