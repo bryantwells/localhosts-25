@@ -1,4 +1,4 @@
-current_date: 2025-09-17
+current_date: 2025-09-24
 
 calendar:
 
@@ -50,11 +50,13 @@ calendar:
       - <a href="/projects/field-notes">P2 Design and Prototype</a>
 
 #   # W5
-#   - date: 2025-09-24
-#     agenda:
-#       - <a href="/files/style-boilerplate.zip">Style Workshop</a>
-#     assignments:
-#       - <a href="/projects/field-notes">Complete P2</a>
+  - date: 2025-09-24
+    agenda:
+      - Guest Lecture, Jacob Hoving
+      - Stylesheet Workshop Part 2
+      - Field Notes Checkins
+    assignments:
+      - <a href="/projects/field-notes">Complete P2</a>
   
 #   # W6
 #   - date: 2025-10-01
