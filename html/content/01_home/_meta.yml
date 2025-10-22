@@ -66,21 +66,22 @@ calendar:
       - <a href="/projects/log">P3 Introduction</a>
       - <a href="/files/php-intro.zip">PHP Intro</a>
   
-#   # W7
-#   - date: 2025-10-08
-#     agenda:
-#       - <a href="https://docs.google.com/spreadsheets/d/1f8CCWbYg_i-WtqUtu_PGVwnv_giL6ajk4meNoEbIml4/edit?gid=0#gid=0">P3 Concept Checkins</a>
+  # W7
+  - date: 2025-10-08
+    agenda:
+      - JS Intro
+      - <a href="/projects/log">P3 Concept Checkins</a>
 
-#   # – BREAK –
-#   - date: 2025-10-15
-#     agenda:
-#       - Fall Break
+  # – BREAK –
+  - date: 2025-10-15
+    agenda:
+      - Fall Break
 
-#   # W9
-#   - date: 2025-10-22
-#     agenda:
-#       - JS Intro Workshop (<a href="/files/js-boilerplate.zip">Boilerplate</a>, <a href="/files/js-complete.zip">Completed</a>)
-#       - P3 Group Checkin
+  # W9
+  - date: 2025-10-22
+    agenda:
+      - JS Events Workshop (<a href="/files/dom-boilerplate.zip">Boilerplate</a>, <a href="/files/dom-complete.zip">Complete</a>)
+      - P3 Checkin
 
 #   # W10
 #   - date: 2025-10-29
