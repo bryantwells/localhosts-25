@@ -83,11 +83,10 @@ calendar:
       - JS Events Workshop (<a href="/files/dom-boilerplate.zip">Boilerplate</a>, <a href="/files/dom-complete.zip">Complete</a>)
       - P3 Checkin
 
-#   # W10
-#   - date: 2025-10-29
-#     agenda:
-#       - <a href="https://kameelahr.com/">Kameelah Janan Rasheed Presentation</a>
-#       - JS Events Workshop (<a href="/files/dom-boilerplate.zip">Boilerplate</a>, <a href="/files/dom-complete.zip">Complete</a>)
+  # W10
+  - date: 2025-10-29
+    agenda:
+      - P3 Design Milestone
 
 #   # W11
 #   - date: 2025-11-05
