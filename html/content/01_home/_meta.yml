@@ -1,4 +1,4 @@
-current_date: 2025-10-22
+current_date: 2025-11-05
 
 calendar:
 
@@ -88,12 +88,10 @@ calendar:
     agenda:
       - P3 Design Milestone
 
-#   # W11
-#   - date: 2025-11-05
-#     agenda:
-#       - P3 Design Milestone
-
-  
+  # W11
+  - date: 2025-11-05
+    agenda:
+      - Work Session  
 
 #   # W12
 #   - date: 2025-11-12
