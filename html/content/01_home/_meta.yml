@@ -93,16 +93,15 @@ calendar:
     agenda:
       - Work Session  
 
-#   # W12
-#   - date: 2025-11-12
-#     agenda:
-#       - PHP Intro Workshop (<a href="/files/kirby-costumes-boilerplate.zip">Boilerplate</a>, <a href="/files/kirby-costumes-complete.zip">Complete</a>)
-#       - Work Session
+  # W12
+  - date: 2025-11-12
+    agenda:
+      - 1:1's
 
-#   # W13
-#   - date: 2025-11-19
-#     agenda:
-#       - Work Session and 1:1s
+  # W13
+  - date: 2025-11-19
+    agenda:
+      - P3 Prototype Milestone
 
 #   # – BREAK –
 #   - date: 2025-11-26
