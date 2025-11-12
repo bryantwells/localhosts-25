@@ -86,7 +86,7 @@ calendar:
   # W10
   - date: 2025-10-29
     agenda:
-      - P3 Design Milestone
+      - <a href="/projects/log">P3 Design Mileston</a>
 
   # W11
   - date: 2025-11-05
@@ -101,7 +101,7 @@ calendar:
   # W13
   - date: 2025-11-19
     agenda:
-      - P3 Prototype Milestone
+      - <a href="/projects/log">P3 Prototype Mileston</a>
 
 #   # – BREAK –
 #   - date: 2025-11-26
