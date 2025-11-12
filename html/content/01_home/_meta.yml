@@ -103,18 +103,18 @@ calendar:
     agenda:
       - <a href="/projects/log">P3 Prototype Mileston</a>
 
-#   # – BREAK –
-#   - date: 2025-11-26
-#     agenda:
-#       - Winter Break
+  # – BREAK –
+  - date: 2025-11-26
+    agenda:
+      - Winter Break
 
-#   # W15
-#   - date: 2025-12-03
-#     agenda:
-#       - P3 Final Review
-#     assignments:
-#       - <a href="https://yale.box.com/s/zae9cv9uwclihvzl46fcdzeq5i6b16ug">Upload your thumbnail, website files, and documentation</a> to the class archive
-#       - (Optional) <a href="/posts/hosting">Purchase hosting</a> for your personal archive
+  # W15
+  - date: 2025-12-03
+    agenda:
+      - <a href="/projects/log">P3 Final Review</a>
+    assignments:
+      - <a href="https://yale.box.com/s/zae9cv9uwclihvzl46fcdzeq5i6b16ug">Upload your thumbnail, website files, and documentation</a> to the class archive
+      - (Optional) <a href="/posts/hosting">Purchase hosting</a> for your personal archive
 
 #   # ====================================
     
